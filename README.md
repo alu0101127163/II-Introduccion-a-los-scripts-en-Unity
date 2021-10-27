@@ -24,6 +24,11 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1d.gif)
 
+* La esfera tiene fisicas y el cubo es de tipo IsTrigger.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1e.gif)
+
+
 
 
 
