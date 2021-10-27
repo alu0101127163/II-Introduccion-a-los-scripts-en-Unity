@@ -1,6 +1,6 @@
 # II-Introduccion-a-los-scripts-en-Unity
 
-[//]: <> ![Foo]()
+![Foo]()
 
 ### 1. Crear una escena simple sobre la que probar diferentes configuraciones de objetos fisicos en Unity. La escena debe tener un plano a mode de suelo, una esfera y un cubo
 
@@ -28,6 +28,9 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1e.gif)
 
+* La esfera tiene fisicas, el cubo es de tipo IsTrigger y tiene fisicas.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1f.gif)
 
 
 
