@@ -1,8 +1,8 @@
 # II-Introduccion-a-los-scripts-en-Unity
 
-[//]: <> ([![Foo]()](http://google.com.au/))
+[//]: <> [![Foo]()](http://google.com.au/)
 
-### Crear una escena simple sobre la que probar diferentes configuraciones de objetos fisicos en Unity. La escena debe tener un plano a mode de suelo, una esfera y un cubo
+### 1. Crear una escena simple sobre la que probar diferentes configuraciones de objetos fisicos en Unity. La escena debe tener un plano a mode de suelo, una esfera y un cubo
 
 * Ninguno de los objetos sera fisico.
 
@@ -13,6 +13,10 @@
 * La esfera tiene fisicas, el cubo no.
 
 [![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1b.gif)](http://google.com.au/)
+
+* La esfera y el cubo tienen fisicas.
+
+[![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1c.gif)](http://google.com.au/)
 
 
 
