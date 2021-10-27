@@ -7,16 +7,16 @@
 * Ninguno de los objetos sera fisico.
 
 
-[![Foo](https://i.gyazo.com/efa0c2072be08093aba42c45eb40a87f.png)](http://google.com.au/)
+[![Foo](https://i.gyazo.com/efa0c2072be08093aba42c45eb40a87f.png)]
 
 
 * La esfera tiene fisicas, el cubo no.
 
-[![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1b.gif)](http://google.com.au/)
+[![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1b.gif)]
 
 * La esfera y el cubo tienen fisicas.
 
-[![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1c.gif)](http://google.com.au/)
+[![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1c.gif)]
 
 
 
