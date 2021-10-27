@@ -7,7 +7,7 @@
 * Ninguno de los objetos sera fisico.
 
 
-[![Foo](https://i.gyazo.com/efa0c2072be08093aba42c45eb40a87f.png)]
+![Foo](https://i.gyazo.com/efa0c2072be08093aba42c45eb40a87f.png)
 
 
 * La esfera tiene fisicas, el cubo no.
@@ -31,6 +31,10 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 * La esfera tiene fisicas, el cubo es de tipo IsTrigger y tiene fisicas.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1f.gif)
+
+* La esfera y el cubo son fisicos y la esfera tiene 10 veces la masa del cubo, se impide la rotacion del cubo sobre el plano XZ.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1g.gif)
 
 
 
