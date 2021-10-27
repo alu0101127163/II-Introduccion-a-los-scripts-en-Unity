@@ -20,7 +20,7 @@
 
 * La esfera y el cubo son fisicos y la esfera tiene 10 veces la masa del cubo.
     
-La velocidad de caida no se ve afectada por la masa de los objetos.
+La velocidad de caida no se ve afectada por la masa del objeto.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1d.gif)
 
