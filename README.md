@@ -12,7 +12,7 @@
 
 * La esfera tiene fisicas, el cubo no.
 
-[![Foo](https://i.gyazo.com/606f3d8aa59d77ade66db4a46e6223e2.mp4)](http://google.com.au/)
+[![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/1b.gif)](http://google.com.au/)
 
 
 
