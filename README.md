@@ -68,3 +68,7 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 * Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I,L,J,M
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/3d.gif)
+
+* Debes ubicar cubos que aumentan de tamaño cuanod se le acerca una esfera y que disminuye cuando se le acerca el jugador.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/3e.gif)
