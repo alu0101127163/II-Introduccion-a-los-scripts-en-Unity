@@ -42,4 +42,9 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/2a.gif)
 
+* Agregar un campo publico que permita graduar la velocidad del movimiento desde el inspector de objetos. 
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/2b.gif)
+
+
 
