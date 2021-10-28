@@ -57,4 +57,7 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/3a.gif)
 
+* Agregar cilindros de tipo A, en los que ademas, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de el.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/3b.gif)
 
