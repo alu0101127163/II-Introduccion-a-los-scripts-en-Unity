@@ -46,5 +46,8 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/2b.gif)
 
+* Estar a la escucha de si el usuario ha utilizado los ejes virtuales. Elegir cuales se va a permitir utilizar: flechas, awsd.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/2c.gif)
 
 
