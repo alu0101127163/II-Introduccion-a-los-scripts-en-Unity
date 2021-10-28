@@ -51,3 +51,10 @@ La velocidad de caida no se ve afectada por la masa del objeto.
 ![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/2c.gif)
 
 
+### 3. Sobre la escena que has trabajado programa los sripts necesarios para las siguientes acciones:
+
+* Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumenar su tamaño y el jugador aumentar puntuación.
+
+![Foo](https://github.com/alu0101127163/II-Introduccion-a-los-scripts-en-Unity/blob/main/img/3a.gif)
+
+
